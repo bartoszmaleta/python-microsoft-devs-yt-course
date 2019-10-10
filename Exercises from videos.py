@@ -35,3 +35,17 @@ print('Hello, ' + first_name3 + ' ' + last_name3)
 print(last_name3.upper())
 
 
+first_name4 = input('Please enter your first name: ')
+last_name4 = input('Please enter your last name: ')
+
+output = 'Hello, ' + first_name4 + ' ' + last_name4
+output2 = 'Hello, {} {}'.format(first_name4, last_name4)
+output3 = 'Hello, {0} {1}'.format(first_name4, last_name4)
+
+# Only available in Python 3:
+output4 = f'Hello, {first_name4} {last_name4}' # f ---> format
+
+print(output)
+print(output2)
+print(output3)
+print(output4)
