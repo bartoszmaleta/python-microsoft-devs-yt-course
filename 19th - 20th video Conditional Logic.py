@@ -55,4 +55,3 @@ if country2.lower() == 'canada':    # .lower() rozwiązuje sprawę!
 else:
     print('You are not from Canada')
 
-
