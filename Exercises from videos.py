@@ -43,7 +43,8 @@ output2 = 'Hello, {} {}'.format(first_name4, last_name4)
 output3 = 'Hello, {0} {1}'.format(first_name4, last_name4)
 
 # Only available in Python 3:
-output4 = f'Hello, {first_name4} {last_name4}' # f ---> format
+output4 = f'Hello, {first_name4} {last_name4}' 
+# f ---> format
 
 print(output)
 print(output2)
