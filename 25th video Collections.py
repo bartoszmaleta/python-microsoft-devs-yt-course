@@ -35,7 +35,7 @@ print(last_names)
 # Retrieving ranges
 
 second_names = ['Messi', 'Ronaldo', 'Rooney']
-footballers = second_names[0:2] # will get the first two items!
+footballers = second_names[0:2]  # will get the first two items!
 # first number is starting index, second number is number of
 # items to retrieve
 
