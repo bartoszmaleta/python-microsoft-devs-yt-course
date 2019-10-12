@@ -12,7 +12,7 @@ last_name3 = input("Enter your last name: ")
 
 print('Your initials are: ' + get_initial2(first_name3) + get_initial2(last_name3))
 
-# __________________
+# ___________________
 
 
 def get_iniial(name, force_uppercase=True):

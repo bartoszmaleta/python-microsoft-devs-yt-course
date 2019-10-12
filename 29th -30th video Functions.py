@@ -14,7 +14,7 @@ print(datetime.datetime.now())
 print()
 
 
-# ____________________ Function:
+# _____________________ Function: 
 
 # print the current time
 def print_time():
